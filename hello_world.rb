@@ -1,2 +1,2 @@
-puts "h='Hello World!"
+puts "Hello World!"
 ruby hello_world.rb
